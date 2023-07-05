@@ -1,0 +1,14 @@
+.navdiv{
+    display: flex;
+    position:absolute;
+    z-index: 1;
+    text-decoration: none;
+    text-align: right;
+    width: 80%;
+    justify-content: right;
+    gap:70px
+}
+.his{
+    color: white;
+    text-decoration: underline;
+}

@@ -1,0 +1,26 @@
+/* history.css */
+.los {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+  }
+  
+  .los :nth-child(1){
+    font-size: 6vw; /* Adjust the font size based on screen size */
+    color: rgb(24, 20, 20);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 0; /* Add this line to remove margin */
+
+    
+  }
+  
+  .los :nth-child(2){
+    font-size: 6vw; /* Adjust the font size based on screen size */
+    color: rgb(27, 14, 51);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 0; /* Add this line to remove margin */
+
+  }
